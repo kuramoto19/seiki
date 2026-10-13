@@ -9,6 +9,7 @@
 | [README.md](README.md) | 制度の概要、全国の設置状況、注意事項 |
 | [schools.md](schools.md) | 設置校の一覧（都道府県別・形態別） |
 | [schools.csv](schools.csv) | 上の一覧の CSV 版（表計算ソフト・プログラム用） |
+| [philosophy.md](philosophy.md) | 各校の教育理念・教育目標・コンセプトと、全体に共通する考え方 |
 | [planned.md](planned.md) | 2027年度・2028年度の開校予定（と、それ以降・検討中の自治体） |
 | [planned.csv](planned.csv) | 開校予定の CSV 版 |
 | [sources.md](sources.md) | 出典 URL の一覧 |
