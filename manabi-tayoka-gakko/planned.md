@@ -1,28 +1,60 @@
-# 開校予定・検討中の学びの多様化学校
+# 2027年度・2028年度に新設予定の学びの多様化学校
 
-調査日: 2026-10-07。報道や自治体の発表をもとにしています。予定は変わることがあります。
+調査日: 2026-10-13。自治体の発表や報道をもとにまとめています。**どれも予定**で、文部科学省の指定（例年3月ごろに公表）はまだです。校名・時期・場所は変わることがあります。
 
-## 2027年（令和9年）4月 開校予定
+確認度: **A** = 自治体の公式資料で確認 / **B** = 報道などで確認 / **C** = 要確認
 
-| 都道府県 | 自治体 | 内容 | 出典 |
+CSV 版: [planned.csv](planned.csv)
+
+---
+
+## 2027年度（令和9年4月）開校予定 — 11件
+
+| 都道府県 | 学校名（仮称を含む） | 形態 | 校種 | 場所・規模など | 備考 | 確認度 | 出典 |
+|---|---|---|---|---|---|---|---|
+| 青森県 | むつ市立学びの多様化学校（校名は公募中） | 本校型（小中併置） | 小中 | 閉校する奥内小学校の校舎（むつ市大字奥内字中野40）。開校日は2027年4月1日の予定 | **青森県内の公立で初** | A | [むつ市 設置検討委員会資料（2026年5月）](https://www.city.mutsu.lg.jp/soshiki/kyoiku/gakkokyoiku/files/2026.5.18siryo.pdf)、[日本教育新聞](https://www.kyoiku-press.com/post-296552/) |
+| 秋田県 | 秋田市立みらい学園小学校・中学校 | 本校型 | 小中 | 2026年7月の説明会には214人が参加 | 秋田市内の公立で初 | B | [秋田魁新報（2026年7月25日）](https://www.sakigake.jp/news/article/20260725AK0041/) |
+| 群馬県 | 藤岡市立の学びの多様化学校（校名未確認） | 未確認 | 未確認 | 旧日野小学校の校舎（藤岡市金井）。地域の自然を生かした体験学習を重視 | **群馬県内で初** | B | [上毛新聞](https://www.threads.com/@jomo_shinbun/post/DaIE9LaErE4/) |
+| 千葉県 | 館山市立の学びの多様化学校（校名未確認） | 未確認 | 未確認 | 「館山市立小中学校再編計画」（2024年11月）の中で設置 | | A | [館山市](https://www.city.tateyama.chiba.jp/kyousoumu/page100164.html) |
+| 東京都 | 港区立御成門学園 御成門小学校 分教室「Minato School」 | 分教室型 | 小学校（5・6年） | 港区立教育センター内（虎ノ門3-6-9）。中学生向けの Minato School（2025年開設）の小学生版 | 2026年10月21日に入室説明会 | A | [港区 発表資料](https://www.city.minato.tokyo.jp/documents/180072/20260831110032.pdf)、[港区 Minato School 資料](https://www.city.minato.tokyo.jp/documents/158834/minatoschool.pdf) |
+| 東京都 | 多摩市立諏訪中学校 分教室 | 分教室型 | 中学校 | 諏訪複合教育施設（かけはし）の3階。開設日は2027年4月1日の予定。発達支援センターも同じ施設に開設 | 東愛宕中学校の校内別室「あたごSpace」との2校体制 | A | [多摩市 記者会見資料（2026年7月22日）](https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/020/561/080722siryou.pdf)、[多摩市 説明会資料](https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/019/070/suwasetsumeikai.pdf) |
+| 大阪府 | 豊中市立彩葉（いろは）中学校 | 本校型 | 中学校 | 閉校した市立島田小学校の施設。1学年20〜25人 | 新中学2・3年生の二次募集あり（申込期限 2026年10月19日） | A | [豊中市](https://www.city.toyonaka.osaka.jp/kosodate/futoukou/manabinotayouka/index.html) |
+| 奈良県 | 生駒市立 学びの多様化学校（生駒小学校・生駒中学校の分校） | 分校型 | 小中 | 施設「幸楽」（生駒市北新町3-1）を改修 | | A | [生駒市 資料](https://www.city.ikoma.lg.jp/cmsfiles/contents/0000038/38894/20250822_03_02_.pdf)、[説明会のページ](https://www.city.ikoma.lg.jp/0000041876.html) |
+| 広島県 | 三次市立学びの多様化学校 | 本校型 | 中学校 | 旧君田中学校の校舎。開校日は2027年4月1日の予定。1学年10人程度、計30人程度。三次駅からスクールバスを運行予定 | **広島県内で初** | A | [三次市 資料](https://www.city.miyoshi.hiroshima.jp/uploaded/attachment/33086.pdf)、[中国新聞](https://www.chugoku-np.co.jp/articles/-/790607) |
+| 徳島県 | 徳島県立学びの多様化学校（仮称。校名は公募済み） | 分校型（県立しらさぎ中学校の分校） | 中学校 | 鳴門教育大学の敷地内に新築中。1学年20人程度、計60人程度 | **徳島県内で初**。起工式は実施済み | A | [徳島県 資料](https://www.pref.tokushima.lg.jp/file/attachment/1050659.pdf)、[NHK](https://news.web.nhk/newsweb/na/nb-8020026437) |
+| 福岡県 | 北九州市立学びの多様化学校（校名未確認） | 本校型（独立した中学校） | 中学校 | 市立教育センター内（八幡西区相生町）。各学年15人程度、計50人程度。基本計画は2026年3月に策定 | 北九州市（政令市）で初 | A | [北九州市 基本計画](https://www.city.kitakyushu.lg.jp/kyouiku/03000078.html) |
+
+## 2028年度（令和10年4月）開校予定 — 5件
+
+| 都道府県 | 学校名（仮称を含む） | 形態 | 校種 | 場所・規模など | 備考 | 確認度 | 出典 |
+|---|---|---|---|---|---|---|---|
+| 岩手県 | 岩手県立 杜陵高等学校 県南校「きぼう創造コース」（仮称） | コース指定型 | 高等学校 | 2028年度に募集を停止する金ケ崎高校の校舎（金ケ崎町）。杜陵高校奥州校を改称し、全日制のコースを新設する方針 | **岩手県内で初**。県立高校に設置 | B | [テレビ岩手（Yahoo!ニュース）](https://news.yahoo.co.jp/articles/c2cc4de10d68ef891ed713ab4fb668059da2cacd)、[岩手めんこいテレビ（Yahoo!ニュース）](https://news.yahoo.co.jp/articles/0b257c5df988312439317db8993cd61472127a04) |
+| 石川県 | 小松市立の学びの多様化学校（校名未確認） | 未定 | 中学校（報道による） | 2027年3月に閉園する小松大谷幼稚園の場所を改修。各学年5人程度。授業内容は通常の8割程度 | 石川県内で初の可能性 | A | [小松市 議会だより](https://www.city.komatsu.lg.jp/material/files/group/46/222-3.pdf)、[ライブドアニュース](https://news.livedoor.com/article/detail/31448362/) |
+| 石川県 | 白山市立の学びの多様化学校（校名未確認） | 未確認 | 未確認 | 各学年1学級、1学年10人程度。基本方針を2026年6月に策定 | | A | [白山市](https://www.city.hakusan.lg.jp/bunka/gakko/shochugakkou/1018871.html)、[白山市 基本方針](https://www.city.hakusan.lg.jp/_res/projects/default_project/_page_/001/018/871/kihonhousin0630.pdf) |
+| 愛媛県 | 宇和島市立の学びの多様化学校（校名未確認） | 未確認 | 中学校（報道による） | 旧三浦小学校の校舎 | **愛媛県内で初** | A | [宇和島市 教育長通信 vol.21](https://www.city.uwajima.ehime.jp/soshiki/30/kyoikutyo-tsuushin08-21.html)、[NHK](https://news.web.nhk/newsweb/na/nd-20261004de54380) |
+| 佐賀県 | 武雄市立の学びの多様化学校（校名未確認） | 未確認 | 中学校 | 2027年度末に閉校する山内西小学校立野川内分校の空き校舎（山内町）。1学年5人程度。文部科学省への申請は2027年2月までの予定 | **佐賀県内で初** | B | [佐賀新聞](https://www.saga-s.co.jp/articles/-/1805056)、[サガテレビ（Yahoo!ニュース）](https://news.yahoo.co.jp/articles/edf881fb905e4e9f8aa35974bf4e80c13377dd4b) |
+
+---
+
+## 開校時期が未確認・2029年度以降・検討中
+
+| 都道府県 | 自治体 | 状況 | 出典 |
 |---|---|---|---|
-| 青森県 | むつ市 | むつ市立学びの多様化学校（仮称）。青森県内の公立では初。2025年6月に設置検討委員会を開催 | [むつ市](https://www.city.mutsu.lg.jp/topics/release/20250626_manabunotayouka.html)、[日本教育新聞](https://www.kyoiku-press.com/post-296552/) |
-| 秋田県 | 秋田市 | 「みらい学園」小学校・中学校。説明会に200人以上が参加 | [秋田魁新報](https://www.sakigake.jp/news/article/20260725AK0041/) |
-| 千葉県 | 館山市 | 2027年4月の開校に向けて準備中 | [館山市](https://www.city.tateyama.chiba.jp/kyousoumu/page100164.html) |
-| 大阪府 | 豊中市 | 市立「彩葉（いろは）中学校」。閉校する市立島田小学校の施設を活用 | [豊中市](https://www.city.toyonaka.osaka.jp/kosodate/futoukou/manabinotayouka/index.html) |
-| 愛媛県 | 宇和島市 | 愛媛県内で初めての学びの多様化学校 | [NHK](https://news.web.nhk/newsweb/na/nd-20261004de54380) |
-| 福岡県 | 北九州市 | 北九州市立教育センター（八幡西区相生町）内に、専任の校長を置く独立した中学校として設置。基本計画は2026年3月に策定 | [北九州市](https://www.city.kitakyushu.lg.jp/kyouiku/03000060.html) |
+| 長野県 | 軽井沢町 | 軽井沢中学校の分校として、軽井沢高校の北校舎に設置する構想。各学年10人程度、計30人程度。文部科学省に申請中とされ、**2027年度開校の可能性あり（時期は未確認）** | [軽井沢町](https://www.town.karuizawa.lg.jp/site/kods/19047.html) |
+| 長野県 | 長野県 | 「信州オープンドアスクール（仮称）」の創造会議で、夜間中学と学びの多様化学校の併設を検討中 | [長野県 資料](https://www.pref.nagano.lg.jp/kyoiku/gimukyo/documents/hpkeisai1.pdf) |
+| 静岡県 | 浜松市 | 2026年6月から有識者会議で設置形態・場所などを協議中。開校時期は未発表 | [浜松市](https://www.city.hamamatsu.shizuoka.jp/somu/sesaku/tayouka.html) |
+| 愛知県 | 名古屋市 | 有識者等会議の「まとめ」を2025年3月に公表。開校時期は未確認 | [名古屋市](https://www.city.nagoya.jp/shisei/keikaku/1008883/1032444.html) |
+| 山梨県 | 山梨県 | 教育振興基本計画（2024年3月）で「在り方を検討」。時期・校数は未発表 | [山梨県](https://www.pref.yamanashi.jp/teian/2024/2024_07.html) |
+| 東京都 | 町田市 | 現在の分教室「ゆめのき」とは別に、本校型の「（仮称）町田市学びの多様化学校」の基本構想（2026年3月） | [町田市 基本構想](http://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/20260206kihonkeikaku.files/2-2kihonkousou.pdf) |
+| 神奈川県 | 相模原市 | 2029年（令和11年）4月の開校予定と報じられている（要確認） | [相模原市 資料](https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/034/483/0108/02.pdf) |
+| 千葉県 | 千葉市 | 2030年度に開校する方針と報じられている | [note](https://note.com/akariwriter3/n/n6e698c5a7463) |
+| 東京都 | 大田区 | 分教室の「みらい学園」を、2031年ごろに本校型の学校へ移す計画 | [大田区](https://www.city.ota.tokyo.jp/kyouiku/gakukyou/202511miraigakuen.html) |
+| 熊本県 | 天草市（私立） | 私立「天草こざとこ学園中学校」の計画は、資金不足で認可申請を取り下げる方向と報じられている | [熊本日日新聞](https://kumanichi.com/articles/1909191) |
 
-## それ以降・時期未定
+## 調べてわかったこと
 
-| 都道府県 | 自治体 | 内容 | 出典 |
-|---|---|---|---|
-| 千葉県 | 千葉市 | 2030年度に開校する方針と報じられている | [note（花婉昴蕗）](https://note.com/akariwriter3/n/n6e698c5a7463) |
-| 東京都 | 大田区 | 現在の分教室（みらい学園）を、2031年ごろに本校型の学校に移す計画。ふれあいはすぬま跡地に新築 | [大田区](https://www.city.ota.tokyo.jp/kyouiku/gakukyou/202511miraigakuen.html) |
-| 東京都 | 町田市 | 「（仮称）町田市学びの多様化学校」基本構想（2026年3月）。不登校支援のワンストップ拠点をめざす | [町田市 基本構想PDF](http://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/20260206kihonkeikaku.files/2-2kihonkousou.pdf) |
-| 高知県 | 高知市 | 2026年4月に分教室（SOLA）を開設済み。さらなる拡充を検討 | [高知市](https://www.city.kochi.kochi.jp/soshiki/77/tayoukagakkou.html) |
-
-## 国の目標
-
-- すべての都道府県・政令指定都市に少なくとも1校を設置（2027年度までが目安）
-- 将来的には分教室型も含めて全国300校
+- 2027・2028年度で、**県内で初めて**の学びの多様化学校ができる予定の県は、青森（公立で初）、群馬、広島、徳島、岩手、愛媛、佐賀、石川（可能性あり）です。
+- 2026年度時点で未設置の13県のうち、**和歌山、鳥取、福井、山梨、長野、熊本**の6県では、2027・2028年度の開校予定を確認できませんでした（長野は軽井沢町の時期が未確認）。
+- 国は「2027年度までにすべての都道府県・政令指定都市に1校以上」という目標を掲げています。ただし、2028年度開校の予定の県があり、目標の時期には間に合わない県が出る見込みです。
+- 政令市では北九州市（2027年度）だけ時期を確認できました。名古屋・浜松・相模原・千葉などは検討中か2029年度以降です。
+- 今回は Web 検索の結果だけを使っています（調査環境から文部科学省や自治体のサイトを直接開けないため）。私立校の新設や、小さな自治体の分教室は、発表が少なく漏れている可能性があります。
